@@ -140,19 +140,24 @@ function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
+  var potencia = (num * num);
+  return potencia
   
 }
 
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
+  var potencia = (num ** 3);
+  return potencia
   
 }
 
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
-  
+  var elevarExponente = (num ** exponent);
+  return elevarExponente
 }
 
 function redondearNumero(num) {
