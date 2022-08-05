@@ -1,0 +1,9 @@
+* variables: es cuando necesitamos nombrar algo y agregarle un valor con el signo = 
+
+* strings: son textos definidos entre comillas simples o dobles ''""
+
+* Funciones (argumentos, `return`): son las definidas a partir de valores y cálculos para generar un resultado.
+
+* Declaraciones `if` : son las utilizadas con alguna condicion que se debe cumplir o no para generar dos posibles respuestas o booleanos true y false.
+
+* Valores booleanos (`true`, `false`) son los resultados obtenidos como verdadero o falso y sigue la logica binaria de 0 o 1 = Si o No.
