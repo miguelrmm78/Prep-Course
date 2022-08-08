@@ -1,0 +1,6 @@
+array = es un contenedor de varios elementos, es como una caja donde hay varios elementos. 
+PAra hacer un array se deben escribir los elementos dentro de corchetes [] y separados por coma.
+ejemplo array = [1, 'hola', 3, -30,] 
+tambien hay que saber que el indice o posicion de cada elemento del array empieza por el numero 0 
+es decir el elemento 1 tiene un indice = 0, el elemento 'hola' un indice = 1, etc.
+Si tenemos muchos elementos, el indice del último es -1.
