@@ -1,0 +1,6 @@
+* Objetos : contiene diferente información sobre una sola cosa. para instarlos se usan {}
+* Propiedades: son las utilizadas en los arrays por ejemplo .length y en objetos pasan a hacer clave-valor,
+ para asignarle una caracteristica particular.  Se asigna con dos puntos y se separsan con coma nombre: nombre, edad: edad,...
+* Métodos: son funciones guardadas en un objeto, se asigna con (){};
+* Bucle `for…in`: es un iterador diferenciado por usar claves en vez de indices numericos como en los arrays.
+* Notación de puntos vs notación de corchetes: se utilizan para asignar valores a los objetos, si sabemos el nombre usamos el punto, sino los corchetes.
